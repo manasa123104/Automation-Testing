@@ -13,9 +13,8 @@ This repository contains:
 ## 🚀 Quick Start
 
 ### For Manual Testing:
-1. Read [`WHAT_TO_DO_NOW.md`](docs/WHAT_TO_DO_NOW.md) for step-by-step instructions
-2. Use [`Quick_Testing_Checklist.md`](docs/Quick_Testing_Checklist.md) during testing
-3. Follow [`Testing_Guide_Apple_SignIn.md`](docs/Testing_Guide_Apple_SignIn.md) for detailed guide
+1. Use [`Quick_Testing_Checklist.md`](docs/Quick_Testing_Checklist.md) during testing
+2. Follow [`Testing_Guide_Apple_SignIn.md`](docs/Testing_Guide_Apple_SignIn.md) for detailed guide
 
 ### For Automated Testing:
 
@@ -43,7 +42,6 @@ npm test apple-signin-test.js
 │   ├── Testing_Guide_Apple_SignIn.md
 │   ├── Quick_Testing_Checklist.md
 │   ├── Test_Execution_Template.md
-│   ├── WHAT_TO_DO_NOW.md
 │   └── ...
 │
 ├── tests/                         # Test code
@@ -63,7 +61,6 @@ npm test apple-signin-test.js
 ## 📚 Documentation
 
 ### Main Guides:
-- **[WHAT_TO_DO_NOW.md](docs/WHAT_TO_DO_NOW.md)** - Start here! Simple step-by-step guide
 - **[Testing_Guide_Apple_SignIn.md](docs/Testing_Guide_Apple_SignIn.md)** - Complete testing guide with code examples
 - **[Quick_Testing_Checklist.md](docs/Quick_Testing_Checklist.md)** - Quick reference during testing
 
@@ -165,4 +162,3 @@ Test Documentation and Test Cases
 ---
 
 **Last Updated:** December 2025
-
