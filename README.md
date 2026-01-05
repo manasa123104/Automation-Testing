@@ -20,9 +20,20 @@ This repository contains:
 
 #### React Native/Expo:
 ```bash
+# Install dependencies
 npm install
-npm test apple-signin-test.js
+
+# Run all tests
+npm test
+
+# Run specific test file
+npm test tests/javascript/apple-signin-test.js
+
+# Run performance tests
+npm run test:performance
 ```
+
+**📖 Full Demo Guide:** See [`HOW_TO_RUN_TESTS.md`](docs/HOW_TO_RUN_TESTS.md) for complete instructions and examples.
 
 #### iOS (Xcode):
 - Open `tests/ios/AppleSignInTests.swift` in Xcode
