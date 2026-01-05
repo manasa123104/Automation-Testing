@@ -243,6 +243,8 @@ BUILD SUCCESSFUL in 45s
 2. Right-click on `AppleSignInTest.kt`
 3. Select **Run 'AppleSignInTest'**
 
+**📖 For detailed Android Studio instructions, see:** [`ANDROID_STUDIO_GUIDE.md`](ANDROID_STUDIO_GUIDE.md)
+
 **Option C: Run Specific Test**
 
 ```bash

@@ -45,6 +45,8 @@ npm run test:performance
 ./gradlew connectedAndroidTest
 ```
 
+**📖 Detailed Android Studio Guide:** See [`docs/ANDROID_STUDIO_GUIDE.md`](docs/ANDROID_STUDIO_GUIDE.md) for step-by-step instructions.
+
 ## 📁 Repository Structure
 
 ```
